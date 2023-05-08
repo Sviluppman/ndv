@@ -1,0 +1,11 @@
+{
+    "name": "biffpattern",
+    "description": "biff biff",
+    "homepage": "daisu",
+    "main": "",
+    "version": "0.1.0",
+    "engines": {"node": ">=0.4.0"},
+    "maintainers": [{"name": "danilo",
+                     "email": "danilo@gmail.com",
+                     "web": "http://danilo.dn"}]
+}
